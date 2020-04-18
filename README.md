@@ -7,7 +7,7 @@ Part of the project is also done in Unity in C#, but that code is not available 
 The main structure of the folder is:
 ```
 .   
-├── Python Scrips                           # Folder containing the UCB algorithms written in Python. Read the README inside this folder for details.
+├── Python Scrips                           # Folder containing the UCB algorithms written in Python.
 ├── Powerpoints                             # Folder containing the final powerpoint presentation along with a gif of the 
 |                                             equipment and a short video of the experience.
 ├── Report.pdf                              # Final report on the project
