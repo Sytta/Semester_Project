@@ -2,6 +2,7 @@
 
 Yawen Hou
 
+Part of the project is also done in Unity in C#, but that code is not available for publishment.
 
 The main structure of the folder is:
 ```
