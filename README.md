@@ -6,7 +6,6 @@ Yawen Hou
 The main structure of the folder is:
 ```
 .   
-├── Data                                    # Not available due to privacy issues
 ├── Python Scrips                           # Folder containing the UCB algorithms written in Python. Read the README inside this folder for details.
 ├── Powerpoints                             # Folder containing the final powerpoint presentation along with a gif of the 
 |                                             equipment and a short video of the experience.
