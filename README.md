@@ -8,9 +8,9 @@ The main structure of the folder is:
 .   
 ├── Data                                    # Not available due to privacy issues
 ├── Python Scrips                           # Folder containing the UCB algorithms written in Python. Read the README inside this folder for details.
-├── Powerpoints                             # Folder containing the final powerpoint presentation (in .pptx and .pdf)
-├── Report                                  # Folder containing the pdf version of the report.
-├── Videos                                  # Folder containing the videos taken during the experiment.
+├── Powerpoints                             # Folder containing the final powerpoint presentation along with a gif of the 
+|                                             equipment and a short video of the experience.
+├── Report.pdf                              # Final report on the project
 ├── Statistical Analysis - Final.ipynb      # The jupyter notebook containing the code for statistical analysis.
 ├── environment.yml                         # The yml file containing all the packages needed to run this project.       
 └── README.md                               # This file
